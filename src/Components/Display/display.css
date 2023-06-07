@@ -1,0 +1,16 @@
+.display-white {
+    min-height: 100vh;
+    background-color: #F6F6F6;
+    display: flex;
+    flex-direction: row;
+    
+  }
+
+  .display-black {
+    min-height: 15vh;
+    background:linear-gradient(to bottom right, #474747 0%, #222222 100%);
+    display: flex;
+    flex-direction:column;  
+    justify-content:center; 
+  }
+  

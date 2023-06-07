@@ -1,0 +1,26 @@
+.form-white {
+    min-height: 100vh;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+  }
+  .form-exploreButton{
+    color:white;
+    background:linear-gradient(to bottom right, #60BBEE 0%, #0A72AD 100%);
+    border-color: #60BBEE;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    height: 30%;
+    margin-top: 2%;
+    margin-left: 40%;
+    border-radius: 8px; 
+  }
+  .form-black {
+    min-height: 15vh;
+    background:linear-gradient(to bottom right, #474747 0%, #222222 100%);
+    display: flex;
+    flex-direction:column;  
+    justify-content:center; 
+  }
